@@ -1,7 +1,7 @@
 <template>
   <view>
     <view
-      ><button class="a" @tap="phoneWH()">获取系统信息</button>
+      ><button class="a" @tap="phoneWH()">信息</button>
       <button class="b" @tap="phoneWH()">点击</button></view
     >
   </view>
